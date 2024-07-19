@@ -1,6 +1,9 @@
 # SomeReposAboutBitFieldOfCSharp
 Some Repos About BitField Of CSharp
 
+
+https://github.com/barncastle/BitsKit
+
 https://github.com/kt81/Spangle.LusterBits
 
 https://github.com/AntonC9018/Bitfield
